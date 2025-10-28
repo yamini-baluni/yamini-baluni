@@ -23,6 +23,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yamini-baluni&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yamini-baluni&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FF6B6B" alt="Contribution Graph" />
+</div>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=yamini-baluni&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
